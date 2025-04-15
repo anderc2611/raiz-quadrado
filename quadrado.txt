@@ -1,0 +1,6 @@
+## primeira alteração
+import math
+
+def aoquadrado(n):
+	return n ** 2
+
